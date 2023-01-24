@@ -1,4 +1,12 @@
 public class Fibonacci {
+    
+    /**
+     * The method returns the nth term in the Fibonacci sequence.
+     *
+     * @param n the position of the term in the Fibonacci sequence to be returned
+     * @author Mohamed Mohamed
+     * @return the nth term of the Fibonacci sequence
+     */
 
     public static int fibonacci(int n) {
         if (n <= 0) {
